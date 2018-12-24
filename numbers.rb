@@ -1,3 +1,5 @@
+#Chapter 1: NUMBERS
+
 #A Few Things to Try
 #Write a program which tells you:
 
