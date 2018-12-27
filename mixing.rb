@@ -36,6 +36,7 @@ puts 3.to_i
 
 # gets and chomp
 # gets = retrieves strings from user
+# chomp = trims the string answer
 puts "Hello there, what's your name?"
 name = gets.chomp
 puts "Your name is #{name}? What a lovely name!"
