@@ -16,3 +16,5 @@ while year <= end_yr
 
   year = start_yr + 1
 end
+
+#use a for loop!!
